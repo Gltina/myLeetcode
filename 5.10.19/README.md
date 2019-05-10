@@ -15,7 +15,7 @@ Output: The root of a Greater Tree like this:
 ```
 
 ### My solution
-```
+```C++
 class Solution {
 public:
     TreeNode* convertBST(TreeNode* root) {
@@ -56,7 +56,7 @@ Output: 1->1->2->3->4->4
 ```
 
 ### My solution
-```
+```C++
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
